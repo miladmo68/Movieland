@@ -1,72 +1,59 @@
-<h1 align="center">🎥 Movieland</h1>
+<div align="center">
+
+# 🎬 Movieland
+
+A movie search app that fetches results from the OMDb API.
+
+<a href="https://miladmo68.github.io/Movieland/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Movieland"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Movieland](https://miladmo68.github.io/Movieland/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Movieland/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Movieland"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Movieland screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A simple React app bootstrapped using Create React App. Currently serves as a foundation for building a movie browsing interface, suitable for integrating features like search, movie listings, favorites, and external API data.
-</p>
+## ✨ Features
 
----
+- Search movies by title
+- Movie cards with poster, year and type
+- Responsive grid layout
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img alt="Movieland" 
-     src="https://github.com/user-attachments/assets/032d4b20-9156-43dc-8b5e-2454119f15c7" 
-     width="1920" height="1080" loading="lazy" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Create%20React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## ​ Features
-
-| Feature                              | Description |
-|--------------------------------------|-------------|
-| **CRA Boilerplate**                  | Bootstrapped with Create React App for standard React setup |
-| **Movie App Foundation**             | Ideal base for building movie search and display functionality |
-| **Supports Core Scripts**            | Includes `npm start`, `npm test`, and `npm run build` |
-| **Lightweight & Scalable**           | Clean project structure, ready for feature extensions |
-| **Ready for API Integration**         | Perfect starting point for fetching data from the IMDb/OMDb API, etc. |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Movieland.git
 cd Movieland
-
-# 2) Install dependencies
 npm install
-
-# 3) Start the development server
 npm start
+```
 
-# 4) Run tests (if any)
-npm test
+## 📁 Project Structure
 
-# 5) Build the app for production
-npm run build
+```
+Movieland/
+├── public/
+├── src/
+└── package.json
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
